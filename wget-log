@@ -1,0 +1,11 @@
+--2022-01-24 07:59:30--  https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2022-03/M1/eclipse-java-2022-03-M1-linux-gtk-x86_64.tar.gz
+Resolving www.eclipse.org (www.eclipse.org)... 198.41.30.198
+Connecting to www.eclipse.org (www.eclipse.org)|198.41.30.198|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘download.php?file=%2Ftechnology%2Fepp%2Fdownloads%2Frelease%2F2022-03%2FM1%2Feclipse-java-2022-03-M1-linux-gtk-x86_64.tar.gz’
+
+                    download.php?file=%     [<=>                                                                           ]       0  --.-KB/s               download.php?file=%2Ftechnology%2Fepp%2     [ <=>                                                                          ]  26.72K  --.-KB/s    in 0s      
+
+2022-01-24 07:59:31 (355 MB/s) - ‘download.php?file=%2Ftechnology%2Fepp%2Fdownloads%2Frelease%2F2022-03%2FM1%2Feclipse-java-2022-03-M1-linux-gtk-x86_64.tar.gz’ saved [27360]
+
